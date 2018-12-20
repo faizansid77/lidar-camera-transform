@@ -8,7 +8,7 @@ resolution = 0.5
 map_width = 200
 map_height = 200
 map_limit = map_width*map_height
-map_origin_position ={-200.0, -200.0, 0.0}
+map_origin_position =[-200.0, -200.0, 0.0]
 
 pImg=0.5 #image prob
 pLid=0.5 #lidar prob
